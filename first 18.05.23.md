@@ -7,4 +7,3 @@ published: true
 ## Здесь я буду выкладывать файлы из описания и другие вещи!
 ![channels4_profile.svg]({{site.baseurl}}/_posts/channels4_profile.svg)
 Вот вам как первая вещь на данном сайте,векторная аватарка моего канала!
-
